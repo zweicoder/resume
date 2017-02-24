@@ -47,8 +47,7 @@
         "startDate": "2015-05-15",
         "endDate": "2015-08-18",
         "highlights": [
-            "Developed and deployed to production JMS-Replay, a sophisticated system to track and manage errored requests from the company's internal systems. Built with Java and SQL.",
-            "Main developer for a proof of concept database change set management system AirBase, a web application using Liquibase API to achieve version control for database. Built with HTML, CSS, Bootstrap 3, AngularJS and Java"
+            "Developed and deployed to production JMS-Replay, a sophisticated system to track and manage errored requests from the company's internal systems. Built with Java and SQL."
         ]
     }],
     "education": [{
