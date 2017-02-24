@@ -1,0 +1,101 @@
+{
+    "basics": {
+        "name": "Chong Zhi Wei",
+        "label": "Software Engineer",
+        "picture": "",
+        "email": "zweicoder@gmail.com",
+        "phone": "(+65)85018422",
+        "summary": "Talented Software Engineer with a diverse skillset and wide range of experience in building, deploying, and maintaining software. Extremely driven and passionate about learning new technologies.",
+        "profiles": [{
+            "network": "GitHub",
+            "username": "zweicoder",
+            "url": "https://github.com/zweicoder/"
+        }]
+    },
+    "work": [{
+        "company": "CatchSense",
+        "position": "Co-founder & CTO",
+        "website": "https://catchsense.com",
+        "startDate": "2016-09-01",
+        "endDate": "2017-02-22",
+        "highlights": [
+            "Co-founded CatchSense, using machine learning to forecast Singapore property trends. ",
+            "Raised $55,000 pre-seed funding and serviced a few clients.",
+            "Responsible for designing the product roadmap and the development as well as deployment of all aspects of the product, including the web portal, the backend API service, and the core Machine Learning pipeline."
+        ]
+    }, {
+        "company": "Entrepreneur First",
+        "position": "Alumni",
+        "website": "www.joinef.com",
+        "startDate": "2016-09-01",
+        "endDate": "2017-02-22",
+        "highlights": [
+            "Entrepreneur First is a London based 'talent-first' startup accelerator that focuses on selecting the best technical individuals to start companies.",
+            "Selected to join Entrepreneur First in their first Singapore batch of 50 people."
+        ]
+    }, {
+        "company": "Singhealth",
+        "position": "Machine Learning Engineer",
+        "startDate": "2016-03-01",
+        "endDate": "2016-08-01",
+        "highlights": [
+            "Developed a No-Show Prediction engine, achieving 90% AUROC. This largely reduced time wasted on patients who wouldn't show up, improving operational efficiency in healthcare institutions like NDCS"
+        ]
+    }, {
+        "company": "J. P. Morgan",
+        "position": "Summer Technology Analyst",
+        "startDate": "2015-05-15",
+        "endDate": "2015-08-18",
+        "highlights": [
+            "Developed and deployed to production JMS-Replay, a sophisticated system to track and manage errored requests from the company's internal systems. Built with Java and SQL.",
+            "Main developer for a proof of concept database change set management system AirBase, a web application using Liquibase API to achieve version control for database. Built with HTML, CSS, Bootstrap 3, AngularJS and Java"
+        ]
+    }],
+    "education": [{
+        "institution": "Singapore University of Technology and Design",
+        "area": "Information Systems Technology and Design (ISTD)",
+        "studyType": "Bachelor",
+        "startDate": "2013-05-15",
+        "endDate": "2016-06-20",
+        "gpa": "4.42/5.0"
+    }],
+    "skills": [{
+        "name": "Web Development",
+        "level": "Fluent",
+        "keywords": [
+            "Webpack",
+            "ReactJS",
+            "Docker",
+            "NodeJS",
+            "HTML",
+            "CSS",
+            "Javascript"
+        ]
+    }, {
+        "name": "Machine Learning",
+        "level": "Fluent",
+        "keywords": [
+            "Pandas",
+            "Python",
+            "Keras",
+            "Feature Engineering"
+        ]
+    }, {
+        "name": "Machine Learning",
+        "level": "Familiar",
+        "keywords": [
+            "Tensorflow",
+            "Neural Nets"
+        ]
+    }, {
+        "name": "Others",
+        "level": "Familiar",
+        "keywords": [
+            "Java",
+            "Bash",
+            "SQL",
+            "Chrome Extension",
+            "Android"
+        ]
+    }]
+}
