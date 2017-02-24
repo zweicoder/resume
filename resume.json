@@ -4,6 +4,14 @@
         "label": "Software Engineer",
         "picture": "",
         "email": "zweicoder@gmail.com",
+        "location": {
+            "address": "31 Holland Close",
+            "postalCode": "270031",
+            "city": "Singapore",
+            "countryCode": "SG",
+            "region": "Singapore"
+        },
+        "address": "Singapore",
         "phone": "(+65)85018422",
         "summary": "Talented Software Engineer with a diverse skillset and wide range of experience in building, deploying, and maintaining software. Extremely driven and passionate about learning new technologies.",
         "profiles": [{
@@ -36,6 +44,7 @@
     }, {
         "company": "Singhealth",
         "position": "Machine Learning Engineer",
+        "website": "https://www.singhealth.com.sg/",
         "startDate": "2016-03-01",
         "endDate": "2016-08-01",
         "highlights": [
@@ -44,6 +53,7 @@
     }, {
         "company": "J. P. Morgan",
         "position": "Summer Technology Analyst",
+        "website": "https://www.jpmorgan.com/",
         "startDate": "2015-05-15",
         "endDate": "2015-08-18",
         "highlights": [
@@ -60,7 +70,7 @@
     }],
     "skills": [{
         "name": "Web Development",
-        "level": "Fluent",
+        "level": "Master",
         "keywords": [
             "Webpack",
             "ReactJS",
@@ -72,23 +82,23 @@
         ]
     }, {
         "name": "Machine Learning",
-        "level": "Fluent",
+        "level": "Master",
         "keywords": [
             "Pandas",
             "Python",
-            "Keras",
             "Feature Engineering"
         ]
     }, {
         "name": "Machine Learning",
-        "level": "Familiar",
+        "level": "Intermediate",
         "keywords": [
+            "Keras",
             "Tensorflow",
             "Neural Nets"
         ]
     }, {
         "name": "Others",
-        "level": "Familiar",
+        "level": "Intermediate",
         "keywords": [
             "Java",
             "Bash",
